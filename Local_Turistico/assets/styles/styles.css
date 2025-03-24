@@ -1,0 +1,138 @@
+:root{
+    --bg-def: #f5f4f0;
+    --border-pri: #d9d9d9;
+    /* Texto */
+    --txt-pri: #1b1b1b;
+    --txt-sec: #333333;
+    --txt-ter: #696969;
+    --txt-hline: #e1624f;
+
+    /* Accent */
+    --acce-blue: #0c51a7;
+    --acce-orange: #e95e10;
+    --acce-pink: #e5245e;
+    --acce-purple: #591b98;
+}
+
+*{
+    margin: 0;
+    padding: 2px;
+}
+
+body{
+    max-width: 80rem;
+    color: var(--txt-pri);
+    margin: 0 auto;
+    font-family: "Open Sans", sans-serif;
+}
+
+.container{
+    padding: 5.5rem;
+    box-sizing: border-box;
+}
+
+.image-travel{
+    width: 100%;
+}
+
+.header div{
+    margin-bottom:2.5rem;
+}
+
+.header div h1{
+    font-size: 2.25rem;
+    font-weight: bold;
+}
+
+span{
+    display: inline-block;
+    color: var(--txt-hline);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 0.5rem;
+}
+
+.header p{
+    color: var(--txt-sec);
+    padding: 1.5rem 0 2.5rem;
+    font-style: italic;
+    text-align: center;
+}
+
+main{
+    border-top: 1px solid var(--border-pri);
+    border-bottom: 1px solid var(--border-pri);
+}
+
+.title-list{
+    margin: 4rem 0;
+}
+
+.title-list h2{
+    padding-bottom: 0.5rem;
+    text-shadow: 0 2px 2px var(--border-pri);
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.card-travel ol li{
+    margin-left: 2.5rem;
+    font-size: 1.75rem;
+    font-weight: bold;
+    padding-bottom: 0.25rem;
+}
+
+.card-travel h3{
+    font--size: 1.75rem;
+    text-shadow: 0 2px 2px var(--border-pri);
+}
+
+.content-list{
+    margin-bottom: 3rem;  
+}
+
+.content-list p strong{
+    font-size: 1.2rem;
+}
+
+.content-list ul li{
+    font-size: 1rem;         
+}
+
+.card-text-blue{
+   color: var(--acce-blue);
+   text-transform: none;
+}
+
+#card-text-pink{
+    color: var(--acce-pink);
+    text-transform: none;
+    margin-bottom: 0;
+ }
+
+#card-text-purple{
+    color: var(--acce-purple);
+    text-transform: none;
+    margin-bottom: 0;
+ }
+
+#card-text-orange{
+    color: var(--acce-orange);
+    text-transform: none;
+    margin-bottom: 0;
+ }
+
+ #description{
+    margin-top: 2.5rem;
+    text-align: center;
+    font-size: 1rem;
+ }
+
+ footer{
+    text-align: center;
+ }
+
+ footer img{
+    vertical-align: middle;
+ }
