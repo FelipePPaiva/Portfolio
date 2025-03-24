@@ -18,6 +18,10 @@
   <li>Tags semânticas</li>
   <li>Listas ordenadas e não ordenadas</li>
   <li>Imagens e links</li>
-  <li>Estruturar elementos com Flexbox</li>
   <li>Estruturação / Organização dos arquivos CSS</li>
+  <li>Utilização de Flexbox para posicionamento de elementos</li>
+  <li>Estilização de Fontes, margem e borda</li>
+  <li>Utilização de variáveis no CSS</li>
 </ul>
+
+![Pagina-Viagem](https://github.com/user-attachments/assets/4eb759b1-cc1a-4253-998b-0b98e5ba8b94)
