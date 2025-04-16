@@ -24,4 +24,4 @@
   <li>Utilização de variáveis no CSS</li>
 </ul>
 
-![Pagina-Viagem](https://github.com/user-attachments/assets/4eb759b1-cc1a-4253-998b-0b98e5ba8b94)
+![Travelgram](https://github.com/user-attachments/assets/ce3954be-1041-431e-82f9-ddb61e20fd2c)
