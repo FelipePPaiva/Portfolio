@@ -25,4 +25,4 @@
 
 ## Imagem do site
 
-![Pagina-Receita](https://github.com/user-attachments/assets/78337ce3-5532-44f0-bbd5-4f27f71a47c9)
+![Pagina Receita](https://github.com/user-attachments/assets/ac9c2894-136b-4111-a552-0bef47cfbbbc)
