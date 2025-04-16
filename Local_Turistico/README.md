@@ -24,4 +24,4 @@
 
 ## Imagem do site
 
-![Local-turistico](https://github.com/user-attachments/assets/1df78932-8490-43e1-be9c-51d904812a12)
+![Image](https://github.com/user-attachments/assets/e234947c-91c3-4b73-826c-3e9c18ac5a83)
