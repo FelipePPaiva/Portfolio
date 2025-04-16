@@ -25,4 +25,4 @@
 
 ## Imagem do site
 
-![pagina-tech](https://github.com/user-attachments/assets/1bb3a07e-eec1-4112-bb42-a1964104d33e)
+![Pagina Tech](https://github.com/user-attachments/assets/15952bcd-7858-426e-89d9-f85296fca46a)
