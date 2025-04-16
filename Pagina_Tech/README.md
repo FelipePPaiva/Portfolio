@@ -8,7 +8,7 @@
 - HTML
 - CSS
 - Git
-- [Layout da página](https://github.com/user-attachments/assets/143c3671-d562-482c-be07-4338364e37c6) (A imagem foi gerada por IA)
+- [Layout da página](https://app.visily.ai/projects/f60976c8-0962-4861-af06-8befc38c6b45/boards/1235113/elements/585120665) (O Layout foi gerada por IA)
 
 ## O que foi aprendido
 
