@@ -1,0 +1,191 @@
+.banner{
+    background: var(--background-primary);
+    width: 100%;
+    color: var(--secondary-text);
+    scroll-margin-top: 100px;
+}
+
+.container{
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.bannerTitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.bannerTitle h2{
+    font-size: 3rem;
+    margin: 3rem 0 2rem;
+    text-align: center;
+}
+
+.bannerTitle p{
+    font-size: 1.2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-weight: 500;
+}
+
+.button{
+    display: block;
+    max-width:600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact{
+    padding-top: 5rem;
+}
+
+.contactWrappe{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    padding: 2rem 0;
+    align-items: top;
+}
+
+.contactHeader h3{
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.contactHeader > p{
+    color: var(--gray-text);
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding-bottom: 2rem;
+}
+
+/* Informações de contato */
+
+.contactList{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.contactIcons{
+    color: var(--alternative-text);
+    background:rgb(51, 49, 49);
+    padding: 15px;
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+.contactInfo p{
+    margin-bottom: 8px;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.contactInfo span{
+    color: var(--gray-text);
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+/* formulario de contato */
+.formContact{
+    background: var(--background-secondary);
+    padding: 2.5rem;
+    border-radius: 5px;
+    color: var(--primary-text);
+}
+.formContact h3{
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.formContent{
+    margin-bottom: 1.5rem;
+}
+
+.formContent label{
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    font-size: 1.05rem;
+}
+
+.formControl {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.05rem;
+    border: 1px solid rgba(174, 171, 171, 0.56);
+    background:rgba(217, 212, 212, 0.19);
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+.formContent textarea{
+    min-height:120px;
+    resize: none;
+    padding: 1rem;
+    font-size: 1.05rem;
+    border-radius: 5px;
+    border: 1px solid rgba(174, 171, 171, 0.56);
+    background:rgba(217, 212, 212, 0.19);
+}
+
+.formButton{
+    display: block;
+    
+}
+
+@media (max-width: 1310px){
+    .contactWrappe{
+        gap: 2rem;
+    }
+}
+
+@media (max-width: 1024px){
+
+    .contactWrappe{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 648px){
+    .bannerTitle h2{
+        font-size: 2.15rem;
+    }
+
+    .formContent label,
+    .contactInfo span,
+    .contactHeader p,
+    .bannerTitle p{
+        font-size: 1rem;
+    }
+
+    .formContact h3,
+    .contactHeader h3{
+        font-size: 1.5rem;
+    } 
+
+    .formControl{
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.95rem;
+    }
+
+    .formContent textarea{
+        width: 88%;
+        font-size: 0.95rem;
+    }
+
+    .button a{
+        display: block;
+        margin: 0;
+        text-align: center;
+    }
+}
+  

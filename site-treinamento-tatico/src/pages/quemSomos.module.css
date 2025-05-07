@@ -1,0 +1,158 @@
+.about{
+    background-color: var(--background-primary);
+    width: 100%;
+    color: var(--secondary-text);
+    scroll-margin-top: 100px;
+}
+
+.container{
+    max-width:1200px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.aboutUs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.aboutUs h2{
+    font-size: 3rem;
+    margin: 3rem 0 2rem;
+    text-transform: uppercase;
+}
+
+.aboutUs div{
+    border-bottom: 4px solid var(--alternative-text);
+    width:100px;
+    margin-bottom: 3rem;
+}
+
+.aboutContent{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    padding-bottom: 6rem;
+}
+
+.aboutInstrutor h3{
+    font-size: 2.5rem;
+    line-height: 1.4;
+}
+
+.aboutInstrutor p{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.border{
+    border-bottom: 4px solid var(--alternative-text);
+    width: 100px;
+    margin: 2rem 0;
+}
+
+.aboutInstrutor strong{
+    color: var(--alternative-text);
+}
+
+.imagem{
+    width: 60%;
+    justify-items: center;
+}
+
+.cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 4rem;
+}
+
+.cardsInfo{
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    padding: 1.5rem;
+    background-color: var(--secondary-text);
+    color: var(--primary-text);
+}
+
+.cardsIcons{
+    background-color: var(--background-primary);
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    margin-right: 1rem;
+    flex-shrink: 0;
+}
+
+.icons{
+    color: var(--alternative-text);
+    font-size: 1.5rem;
+    padding: 15px 20px;
+}
+
+.cardsText h4{
+    margin: 0.5rem 0 0.3rem;
+}
+
+.cardsText p{
+    font-size: 0.9rem;
+}
+
+@media (max-width: 1310px){
+
+    .containerImage{
+        text-align: center;
+        margin-top: 2rem;
+    }
+
+    .imagem{
+        width: 80%
+    }
+}
+
+@media (max-width: 1024px){
+    .aboutContent{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .aboutInstrutor h3{
+        text-align: center;
+    }
+
+    .border{
+        margin: 2rem auto;
+    }
+
+    .containerImage{
+        text-align: center;
+    }
+
+    .imagem{
+        width: 40%
+    }
+}
+
+@media (max-width: 648px){
+    .aboutInstrutor h3{
+        text-align: center;
+        font-size: 1.45rem;
+    }
+
+    .aboutInstrutor p{
+        font-size: 1rem;
+    }
+
+    .containerImage{
+        text-align: center;
+        margin-top: 0.75rem;
+    }
+
+    .imagem{
+        width: 80%
+    }
+}

@@ -1,0 +1,110 @@
+.politica{
+    background: var(--background-secondary);
+    width: 100%;
+    
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 80px;
+}
+
+.containerBox{
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 1000px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    background: #fff;
+}
+
+.content{
+    max-width: 900px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.content p{
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+}
+
+.indice{
+    background:rgb(218, 218, 218);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 900px;
+    font-size: 1.1rem;
+}
+
+.indice h3{
+    margin:20px 0;
+    font-size: 1.75rem;
+}
+
+.indice ol li{
+    margin-left: 1rem;
+    padding-bottom: 2rem;
+    padding-left: 0.5rem;
+    font-weight: 500;
+}
+
+.indice a{
+    text-decoration: none;
+    color: var(--text-primary);
+    font-weight: 500;
+}
+
+.indice a:hover{
+    color: var(--alternative-text);
+    transition: all 0.4s ease;
+}
+
+.listContent{
+    max-width: 900px;
+    margin: 2rem auto;
+    font-size: 1.5rem;
+}
+
+.listContent h3[id]{
+    scroll-margin-top: 140px;
+}
+
+.topic{
+    border-top: 1px solid rgba(192, 182, 182, 0.51);
+    padding: 1.25rem 0 2rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.topic p{
+    padding-bottom: 1.2rem;
+}
+
+.topic ul{
+    padding-bottom: 1.2rem;
+}
+
+.topic ul li{
+    margin-left: 2.5rem;
+    margin-bottom: 0.75rem;
+}
+
+@media (max-width: 648px){
+
+    .topic li,
+    .topic p,
+    .content p{
+        font-size: 1rem;
+    }
+
+    .listContent{
+        margin:2rem 1.25rem;
+    }
+
+    .listContent h3{
+        font-size: 1.2rem;
+    }
+}
