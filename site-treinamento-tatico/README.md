@@ -4,6 +4,10 @@
 <p align="center">Projeto desenvolvido para um cliente que oferece cursos presenciais de treinamento tático e manuseio de armas de fogo.</p>
 <p align="center">A necessidade surgiu a partir de uma dificuldade em ampliar seu alcance e profissionalizar sua presença digital, pois toda sua atuação era restrita ao Instagram.</p>
 
+<div align="center">
+  <a href="https://jpdeandrade.netlify.app/" >Acesse o site</a>
+</div>
+
 ## Tecnologia utilizadas
 
 - React
