@@ -14,7 +14,7 @@
 
 ## O que foi aprendido
 
-<p>Nesse projeto foi uma oportunidade de aplicar na prática os conhecimentos adquiridos no curso Full-Stack da Rocketseat. Além dos fundamneots essenciais de HTML e CSS</p>
+<p>Nesse projeto foi uma oportunidade de aplicar na prática os conhecimentos adquiridos no curso Full-Stack da Rocketseat. Além dos fundamentos essenciais de HTML e CSS</p>
 <ul>
   <li>Estrutura basica de um documento HTML</li>
   <li>Tags semânticas para melhorar acessibilidade</li>
