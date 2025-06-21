@@ -3,7 +3,7 @@ export function Copyright(){
     return(
         <>
             <p>
-                &copy;{currentYear} CodePulse Solutions. Todos os direitos reservados.
+                &copy;{currentYear} Felipe Paiva. Todos os direitos reservados.
             </p>
         </>
     )
