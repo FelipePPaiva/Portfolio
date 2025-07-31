@@ -9,6 +9,8 @@ Este repositório reúne meus projetos desenvolvidos com as linguagens que venho
 | Landing Page Local Turistico | Pagina utilizando os fundamentos de HTML5 e CSS3 | [Ver Repositório](https://github.com/FelipePPaiva/Portfolio/tree/main/Local_Turistico) |
 | Landing Page Página Tech | Layout criado utilizando elementos Div e Flexbox | [Ver Repositório](https://github.com/FelipePPaiva/Portfolio/tree/main/Pagina_Tech) |
 | Landing Page Travelgram | Layout criado utilizando Flexbox | [Ver Repositório](https://github.com/FelipePPaiva/Portfolio/tree/main/Travelgram) |
+| Landing Page Conversor de Moedas | Utilizando Manipulação de dados com JS | [Ver Repositório](https://github.com/FelipePPaiva/ConversorMoedaBRL) |
+| Landing Page To-do-List | Criação de lista com JS | [Ver Repositório](https://github.com/FelipePPaiva/To-do-list) |
 | Landing Page Treinamento Tático | Site criado utilizando React | [Ver Repositório](https://github.com/FelipePPaiva/Portfolio/tree/main/site-treinamento-tatico) |
 
 
