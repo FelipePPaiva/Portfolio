@@ -19,6 +19,7 @@ Este repositório reúne meus projetos desenvolvidos com as linguagens que venho
 - CSS3
 - Flexbox
 - Grid Layout
+- JavaScript
 - Git
 - React
 
@@ -28,6 +29,7 @@ Este repositório reúne meus projetos desenvolvidos com as linguagens que venho
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 
